@@ -30,7 +30,7 @@
 * Safari+
 * Internet Explorer 10+
 
-# Live Demo: [Eventida][10]
+## Live Demo: [Eventida][10]
 
 ***
 [1]: http://getbootstrap.com "Bootstrap"
